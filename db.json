@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":2,
+            "name":"ali",
+            "email":"ali@mail.com"
+        }
+    ]
+    ,
+    "lessons":[
+        {
+            "id":1,
+            "text":"slkjdfjlsjdf\nlsdkjflsadfksadfj\nsadkflj"
+        }
+    ]
+}
